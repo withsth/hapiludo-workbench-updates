@@ -1,9 +1,9 @@
 {
   "product": "hapiludo-workbench",
-  "version": "1.51.10",
+  "version": "1.51.11",
   "notes": [
     "工具台已有新版本，请联系维护者获取安装包。"
   ],
   "downloadUrl": "https://github.com/withsth/hapiludo-workbench/releases/latest",
-  "releasedAt": "2026-11-05T10:46:45.000Z"
+  "releasedAt": "2026-11-06T02:49:25.000Z"
 }
